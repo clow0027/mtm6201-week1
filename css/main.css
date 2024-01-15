@@ -1,0 +1,33 @@
+body{
+    /* Chooses font family and default font size */
+    font-family: Courier 'Courier New', Courier, monospace;
+    font-size: 18px;
+    /* Chooses body background color to compliment photo */
+    background-color: chocolate;
+    /* Adjusts spacing of body content */
+    padding: 10px;
+}
+
+h1{
+    /* Makes header font size larger than text */
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 10px;
+}
+h2{
+    /* Makes h2 font size smaller than h1 but bigger than default text (18px) */
+    font-size: x-large;
+    font-weight: bold;
+    padding: 10px;
+}
+/* Makes list description and items different colors to visually separate them */
+dt{
+    background-color: peachpuff;
+    padding: 10px;
+    font-weight: bold;
+}
+
+dd{
+    background-color: sandybrown;
+    padding: 10px;
+}
